@@ -19,4 +19,4 @@ Social media is highly prone to disinformation and misinformation. A study condu
 
 ![You are more than enough](https://user-images.githubusercontent.com/71460438/146307774-156204f5-2052-42e7-9e35-400d4cc014bb.png)
 
-Social media addiction tends to take a toll on the mental health of young people. On social media, you are bombarded by images and videos of models and inlfluencers and even people doing fun things like going on vacation. This can cause users to feel incompetent with their own lives. This constant comparison causes them to lose confidence int their bodeis as well.
+Social media addiction tends to take a toll on the mental health of young people. On social media, you are bombarded by images and videos of models and inlfluencers and even people doing fun things like going on vacation. This can cause users to feel incompetent with their own lives. This constant comparison to other people causes them to lose confidence in their bodies and lives as a whole.
