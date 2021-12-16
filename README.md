@@ -1,5 +1,6 @@
 ## Social Media Addiction
 
+This website was created by me, Papa Kofi Asibuo, to raise awareness for Social Media addiction and its dangers. Social media sites are becoming increasingly addictive and this is taking a toll on their users, with teens being the most vulnerable. Something must be done to prevent the leaders of tomorrow from becoming slave to their phones.
 
 
 ![world](https://user-images.githubusercontent.com/71460438/146305425-ba5fb642-346b-46ae-9563-aa3e5a84935d.png)
@@ -16,4 +17,4 @@ Social media is highly prone to disinformation and misinformation. A study condu
 
 ![You are more than enough](https://user-images.githubusercontent.com/71460438/146307774-156204f5-2052-42e7-9e35-400d4cc014bb.png)
 
-Social media adddiictionntends to take a toll on the mental health of young people. Being bombarded by 
+Social media addiction tends to take a toll on the mental health of young people. On social media, you are bombarded by images and videos of models and inlfluencers and even people doing fun things like going on vacation. This can cause users to feel incompetent with their own lives. This constant comparison causes them to lose confidence int their bodeis as well.
