@@ -1,5 +1,7 @@
 ## Social Media Addiction
 
+### By Papa Kofi Asibuo
+
 This website was created by me, Papa Kofi Asibuo, to raise awareness for Social Media addiction and its dangers. Social media sites are becoming increasingly addictive and this is taking a toll on their users, with teens being the most vulnerable. Something must be done to prevent the leaders of tomorrow from becoming slave to their phones.
 
 
