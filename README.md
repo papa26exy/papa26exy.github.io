@@ -4,6 +4,10 @@
 
 This website was created by me, Papa Kofi Asibuo, to raise awareness for Social Media addiction and its dangers. Social media sites are becoming increasingly addictive and this is taking a toll on their users, with teens being the most vulnerable. Something must be done to prevent the leaders of tomorrow from becoming slave to their phones.
 
+### Social Media Addicts over time
+
+<iframe title="Number of Social Media Addicts over 5 years" aria-label="Interactive line chart" id="datawrapper-chart-dktf9" src="https://datawrapper.dwcdn.net/dktf9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 ![world](https://user-images.githubusercontent.com/71460438/146305425-ba5fb642-346b-46ae-9563-aa3e5a84935d.png)
 
