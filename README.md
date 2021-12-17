@@ -9,7 +9,7 @@ This website was created by me, Papa Kofi Asibuo, to raise awareness for Social 
 <iframe title="Number of Social Media Addicts over 5 years" aria-label="Interactive line chart" id="datawrapper-chart-dktf9" src="https://datawrapper.dwcdn.net/dktf9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-This data visualization shows that social media addiction is on the rise, with 210 million addicts in 2017 compared to the current 333 million people addicted to social media (2021). We must take action soon. This was created using [datawrapper]().
+This data visualization shows that social media addiction is on the rise, with 210 million addicts in 2017 compared to the current 333 million people addicted to social media (2021). We must take action soon. This was created using [datawrapper](https://www.datawrapper.de).
 
 
 ![world](https://user-images.githubusercontent.com/71460438/146305425-ba5fb642-346b-46ae-9563-aa3e5a84935d.png)
